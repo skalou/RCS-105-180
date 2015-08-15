@@ -1,11 +1,11 @@
 {
     "NAME":"RCS-105-180",
-    "URL":"http://ksp-avc.cybutek.net/version.php?id=2",
+    "URL":"https://github.com/skalou/RCS-105-180/blob/master/RCS-105-180-AVC",
     "DOWNLOAD":"http://kerbal.curseforge.com/ksp-mods/220462-ksp-avc-add-on-version-checker",
     "GITHUB":
     {
-        "USERNAME":"YourGitHubUserName",
-        "REPOSITORY":"YourGitHubRepository",
+        "USERNAME":"skalou",
+        "REPOSITORY":"RCS-105-180",
         "ALLOW_PRE_RELEASE":false,
     },
     "VERSION":
