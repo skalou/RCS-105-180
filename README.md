@@ -1,6 +1,6 @@
 # RCS-105-180
 Welcome, in my github,
-this place is for my mod RCS-105-180 for Kerbal space program
+this place is for my mod RCS-105-180 for Kerbal space program,
 you can download it at: http://kerbal.curseforge.com/ksp-mods/235017-rcs-105-180
-or check the forum here: http://forum.kerbalspaceprogram.com/threads/131627-wip-rcs-rv-105-180
+or check the forum page here: http://forum.kerbalspaceprogram.com/threads/131627-wip-rcs-rv-105-180
 .
