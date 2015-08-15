@@ -1,7 +1,7 @@
 {
     "NAME":"RCS-105-180",
     "URL":"https://raw.githubusercontent.com/skalou/RCS-105-180/master/RCS-105-180_AVC",
-    "DOWNLOAD":"http://kerbal.curseforge.com/ksp-mods/220462-ksp-avc-add-on-version-checker",
+    "DOWNLOAD":"http://kerbal.curseforge.com/ksp-mods/235017-rcs-105-180",
     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/skalou/RCS-105-180/master/RCS-105-180_changelog",
     "GITHUB":
     {
@@ -11,8 +11,8 @@
     },
     "VERSION":
     {
-        "MAJOR":1,
-        "MINOR":2,
+        "MAJOR":0,
+        "MINOR":1,
         "PATCH":0,
         "BUILD":0
     },
