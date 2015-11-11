@@ -1,8 +1,13 @@
+### 1.0.0 (11 November 2015)
+- Official release.
+- [Tweak] adjusted cost.
+- KSP 1.0.5 compatible (the previous versions too).
+
 ### 0.1.2.0 (16 August 2015)
-- [Tweak] reorientation of 3 thrusters at the original orientation (90° instead of 105°) .
+- [Tweak] reorientation of 3 thrusters at the original orientation (90° instead of 105°).
 
 ### 0.1.1.0 (15 August 2015)
-- [WIP] link updated in the Readme.txt .
+- [WIP] link updated in the Readme.txt.
 
 ### 0.1.0.0 (15 August 2015)
 - [Test] in test.
