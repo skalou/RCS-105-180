@@ -1,3 +1,10 @@
+### 2.0.0 (16 October 2016)
+- Model updated for KSP 1.2 (not compatible with older KSP versions)
+- New pretier effect with sounds! 
+
+### 1.0.1 (16 October 2016)
+- Last compatible version up to KSP 1.1.3.
+
 ### 1.0.0 (11 November 2015)
 - Official release.
 - [Tweak] adjusted cost(620 > 700) , entry cost(3400 > 4500) and mass (0.05 > 0.052).
