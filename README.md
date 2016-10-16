@@ -7,4 +7,3 @@ http://kerbal.curseforge.com/ksp-mods/235017-rcs-105-180
 
 Or check the forum page here:
 http://forum.kerbalspaceprogram.com/index.php?/topic/118538-wip-rcs-rv-105-180/
-.
