@@ -3,12 +3,6 @@
     "URL":"https://raw.githubusercontent.com/skalou/RCS-105-180/master/RCS-105-180_AVC",
     "DOWNLOAD":"http://kerbal.curseforge.com/ksp-mods/235017-rcs-105-180",
     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/skalou/RCS-105-180/master/RCS-105-180_changelog",
-    "GITHUB":
-    {
-        "USERNAME":"skalou",
-        "REPOSITORY":"RCS-105-180",
-        "ALLOW_PRE_RELEASE":false,
-    },
     "VERSION":
     {
         "MAJOR":2,
